@@ -1,0 +1,13 @@
+com/example/bookstore/controller/BookController$GenreStats.class
+com/example/bookstore/controller/BookController$BookStats.class
+com/example/bookstore/repository/BookRepository.class
+com/example/bookstore/model/Book.class
+com/example/bookstore/service/BookService.class
+com/example/bookstore/repository/AuthorRepository.class
+com/example/bookstore/model/Author.class
+com/example/bookstore/BookstoreApplication.class
+com/example/bookstore/repository/BookRepository$BookSummary$AuthorInfo.class
+com/example/bookstore/repository/AuthorRepository$AuthorSummary.class
+com/example/bookstore/model/Book$Genre.class
+com/example/bookstore/controller/BookController.class
+com/example/bookstore/repository/BookRepository$BookSummary.class

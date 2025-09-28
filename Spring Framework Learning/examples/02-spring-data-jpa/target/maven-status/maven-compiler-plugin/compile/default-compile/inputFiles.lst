@@ -1,0 +1,7 @@
+/home/runner/work/EPBL/EPBL/Spring Framework Learning/examples/02-spring-data-jpa/src/main/java/com/example/bookstore/controller/BookController.java
+/home/runner/work/EPBL/EPBL/Spring Framework Learning/examples/02-spring-data-jpa/src/main/java/com/example/bookstore/service/BookService.java
+/home/runner/work/EPBL/EPBL/Spring Framework Learning/examples/02-spring-data-jpa/src/main/java/com/example/bookstore/repository/AuthorRepository.java
+/home/runner/work/EPBL/EPBL/Spring Framework Learning/examples/02-spring-data-jpa/src/main/java/com/example/bookstore/model/Book.java
+/home/runner/work/EPBL/EPBL/Spring Framework Learning/examples/02-spring-data-jpa/src/main/java/com/example/bookstore/model/Author.java
+/home/runner/work/EPBL/EPBL/Spring Framework Learning/examples/02-spring-data-jpa/src/main/java/com/example/bookstore/BookstoreApplication.java
+/home/runner/work/EPBL/EPBL/Spring Framework Learning/examples/02-spring-data-jpa/src/main/java/com/example/bookstore/repository/BookRepository.java
