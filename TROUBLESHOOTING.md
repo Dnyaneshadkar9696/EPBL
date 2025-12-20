@@ -32,7 +32,7 @@ If a particular service is down, you can replace it with alternatives:
 
 **Alternative Activity Graph:**
 ```markdown
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Dnyaneshadkar9696&theme=radical)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dnyaneshadkar9696&theme=github)
 ```
 
 **Simple Stats Alternative:**
