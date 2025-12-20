@@ -30,6 +30,8 @@ Project demonstration video: [Watch Demo](https://www.mediafire.com/file/dtvuu9v
 
 ## 📊 GitHub Stats
 
+> **Note**: If any stats images don't load, see [TROUBLESHOOTING.md](./TROUBLESHOOTING.md) for solutions.
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dnyaneshadkar9696&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dnyaneshadkar9696&theme=radical&hide_border=true)
